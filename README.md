@@ -1,22 +1,14 @@
 <h3>
   Hi there
-  <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h3>
+<h2>I'm Jann Marc</h2>
 
-<!--
-**jfvillablanca/jfvillablanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-jmfv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmfv)](https://www.linkedin.com/in/jmfv) [![Gmail Badge](https://img.shields.io/badge/-jmfv.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmfv.dev@gmail.com)](mailto:jmfv.dev@gmail.com)
 
-Here are some ideas to get you started:
+A software developer with a degree in electronics engineering. I like thinking 
+  <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="30px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 ### 🔥 &nbsp; My Stats :
