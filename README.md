@@ -16,4 +16,6 @@ A software developer with a degree in electronics engineering. I like thinking
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfvillablanca&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![An image of @jfvillablanca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfvillablanca)](https://holopin.io/@jfvillablanca)
+
 ---
